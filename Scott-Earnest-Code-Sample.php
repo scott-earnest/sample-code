@@ -5,7 +5,7 @@
 *
 * bic.avail.inc
 *
-* This file contains availability functions fro properties,
+* This file contains availability functions for properties,
 * including admin, batch updates, and output.
 * Depends on the "availability_calendars" contributed module
 *
